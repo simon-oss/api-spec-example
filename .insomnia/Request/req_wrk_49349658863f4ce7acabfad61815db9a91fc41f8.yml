@@ -1,0 +1,21 @@
+_id: req_wrk_49349658863f4ce7acabfad61815db9a91fc41f8
+authentication: {}
+body: {}
+created: 1589440463106
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1589440463106
+method: GET
+modified: 1589451069293
+name: /pets/{id}
+parameters: []
+parentId: wrk_49349658863f4ce7acabfad61815db9a
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/pets/{{ id }}"
